@@ -118,6 +118,7 @@
       "type": "filter"
     },
     {
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr10p",
       "imageURL": "https://raw.githubusercontent.com/k45sle/NUBIO_BADGES/refs/heads/main/resources/HDR10%2B.png",
