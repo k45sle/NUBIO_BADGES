@@ -1,10 +1,10 @@
 {
   "filters": [
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-remux.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUBIO_BADGES/refs/heads/main/resources/REMUX.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
