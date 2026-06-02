@@ -196,10 +196,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_Atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUBIO_BADGES/refs/heads/main/resources/ATMOS.png",
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)^(?!.*\\btrue[ _\\.\\-]?hd\\b).*\\batmos\\b.*$",
