@@ -105,10 +105,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_DV.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUBIO_BADGES/refs/heads/main/resources/DV.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
