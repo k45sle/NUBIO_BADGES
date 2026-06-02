@@ -355,7 +355,7 @@
       "borderColor": "#FFFFFFFF",
       "groupId": "gs",
       "id": "s-nflx",
-      "imageURL": "https://raw.githubusercontent.com/je19921/cardgenerator.github.io/refs/heads/main/Netflix.png",
+      "imageURL": "https://media1.tenor.com/m/Hh5lO8fCAAIAAAAC/netflix.gif",
       "isEnabled": true,
       "name": "🍿 NETFLIX",
       "pattern": "(?i)\\b(nflx|nf|netflix)\\b",
