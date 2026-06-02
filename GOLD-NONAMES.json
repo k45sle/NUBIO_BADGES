@@ -1,10 +1,10 @@
 {
   "filters": [
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gq",
       "id": "q-r",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/mono-remux.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/REMUX.png",
       "isEnabled": true,
       "name": "Remux",
       "pattern": "(?i)\\bremux\\b",
@@ -66,10 +66,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/4k.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/4K.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
@@ -105,10 +105,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "a-dv",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_DV.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/DVISION.png",
       "isEnabled": true,
       "name": "DV",
       "pattern": "(?i)\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b",
@@ -118,10 +118,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gv",
       "id": "v-hdr10p",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/HDR10Plus.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/HDR10p.png",
       "isEnabled": true,
       "name": "HDR10+",
       "pattern": "(?i)^(?!.*\\b(?:dv|dovi|dolby[\\s._-]?vision)\\b)(?=.*hdr[\\s._-]?10[\\s._-]?(?:\\\\+|plus|p))",
@@ -183,10 +183,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-th",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_TrueHD.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/TRUEHD.png",
       "isEnabled": true,
       "name": "TrueHD",
       "pattern": "(?i)(?:\\btrue[ ._-]?hd\\b|^(?=.*\\batmos\\b)(?=.*\\bremux\\b)(?!.*\\b(?:true[ ._-]?hd|ddp|dd\\+|e-?ac3|eac3)\\b).+$)",
@@ -196,10 +196,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-at",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_Atmos.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/ATMOS.png",
       "isEnabled": true,
       "name": "Atmos",
       "pattern": "(?i)^(?!.*\\btrue[ _\\.\\-]?hd\\b).*\\batmos\\b.*$",
@@ -209,10 +209,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-dtsx",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtsx.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/DTSX.png",
       "isEnabled": true,
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
@@ -222,10 +222,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-dtsma",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtshdma.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/DTSHDMA.png",
       "isEnabled": true,
       "name": "DTS-HD MA",
       "pattern": "(?i)^(?=.*\\bdts[-_. ]?(?:hd[-_. ]?)?ma\\b)(?!.*\\bdts[-_.: ]?x\\b)",
@@ -287,10 +287,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "gc",
       "id": "ch-71",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/white_71.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/71.png",
       "isEnabled": true,
       "name": "7.1",
       "pattern": "[^0-9][7-8][. ][01](?![0-9])",
