@@ -209,10 +209,10 @@
       "type": "filter"
     },
     {
-      "borderColor": "#FFD700",
+      "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-dtsx",
-      "imageURL": "https://raw.githubusercontent.com/ngreyx1/badges/refs/heads/main/images-white/dtsx.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUBIO_BADGES/refs/heads/main/resources/DTSX.png",
       "isEnabled": true,
       "name": "DTS:X",
       "pattern": "(?i)\\bdts[-_.: ]?x\\b",
