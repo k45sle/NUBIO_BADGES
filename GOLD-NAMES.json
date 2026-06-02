@@ -355,7 +355,7 @@
       "borderColor": "#FFFFFFFF",
       "groupId": "gs",
       "id": "s-nflx",
-      "imageURL": "https://media1.tenor.com/m/Hh5lO8fCAAIAAAAC/netflix.gif",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/netflix.gif",
       "isEnabled": true,
       "name": "🍿 NETFLIX",
       "pattern": "(?i)\\b(nflx|nf|netflix)\\b",
