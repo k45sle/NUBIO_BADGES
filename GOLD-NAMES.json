@@ -69,7 +69,7 @@
       "borderColor": "#00000000",
       "groupId": "gr",
       "id": "r-4k",
-      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/4K.png",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/4Kn.png",
       "isEnabled": true,
       "name": "4K",
       "pattern": "(?i)^(?=.*(?:2160[pi]?|4k|uhd))(?!.*(?:1080[pi]?|720[pi]?))",
