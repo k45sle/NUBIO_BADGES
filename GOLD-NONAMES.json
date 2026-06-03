@@ -183,6 +183,19 @@
       "type": "filter"
     },
     {
+      "borderColor": "#FF6B6B",
+      "groupId": "gv",
+      "id": "v-SDR",
+      "imageURL": "https://raw.githubusercontent.com/k45sle/NUVIO_BADGES/refs/heads/main/resources/SDR.png",
+      "isEnabled": true,
+      "name": "SDR",
+      "pattern": "(?i)^(?=.*\\bSDR\\b)(?!.*sdr[\\s._-]?10)",
+      "tagColor": "#00000000",
+      "tagStyle": "bordered",
+      "textColor": "#FFBE01",
+      "type": "filter"
+    },
+    {
       "borderColor": "#00000000",
       "groupId": "ga",
       "id": "a-th",
